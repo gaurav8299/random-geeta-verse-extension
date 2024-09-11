@@ -3,6 +3,9 @@
 ## Overview
 The **Random Geeta Verse Chrome Extension** is a lightweight and simple Chrome extension that provides spiritual inspiration by displaying a random verse from the Bhagavad Gita every time you open it. The extension has a clean and modern user interface with customizable features, making it easy to get a fresh perspective from the Gita with a single click.
 
+![Extension Screenshot](geetaextensi.png)
+)
+
 
 ## Features
 - **Random Verse:** Displays a new random verse from the Bhagavad Gita each time the extension is opened.
