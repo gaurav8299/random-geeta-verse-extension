@@ -43,3 +43,8 @@ Once you've cloned the repository, follow these steps to load the extension into
 2. Search Functionality: A search bar to find specific verses.
 3. Verse of the Day: Automatically display a new verse daily.
 4. Share on Social Media: Add buttons to share verses on social platforms like Twitter or Facebook.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
